@@ -56,3 +56,6 @@ This project is tracked through GitHub for version control. Regular commits have
 
 ## License
 This project is part of **CMPG 323** and is subject to the course’s academic integrity policies.
+
+## linked for online report
+https://app.powerbi.com/groups/me/gateways?experience=power-bi
