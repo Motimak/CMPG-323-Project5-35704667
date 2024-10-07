@@ -41,15 +41,7 @@ Each page includes filters to allow users to view the data by project, client, o
 2. Use the filters on each page to drill down into the data by project, client, or date range.
 
 ## Data Security
-All data connections are secure, and appropriate permissions have been configured for access. Only authorized users will be able to view the report.
-
-## Reference List
-- [Power BI Best Practices](https://spreadsheeto.com/power-bi-best-practices)
-- [Power BI Documentation](https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/)
-- [Storytelling in Power BI](https://powerbi.microsoft.com/en-us/data-storytelling/)
-- [Exam PL-300: Microsoft Power BI Data Analyst](https://learn.microsoft.com/en-us/certifications/exams/pl-300)
-- Additional sources as explored during development.
-- 
+All data connections are secure, and appropriate permissions have been configured for access. Only authorized users will be able to view the report. 
 
 ## Version Control
 This project is tracked through GitHub for version control. Regular commits have been made to demonstrate iterative progress.
@@ -59,3 +51,5 @@ This project is part of **CMPG 323** and is subject to the course’s academic i
 
 ## linked for online report
 https://app.powerbi.com/groups/me/gateways?experience=power-bi
+
+gateway cluster name (PersonalMode)
