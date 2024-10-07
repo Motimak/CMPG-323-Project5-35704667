@@ -49,6 +49,7 @@ All data connections are secure, and appropriate permissions have been configure
 - [Storytelling in Power BI](https://powerbi.microsoft.com/en-us/data-storytelling/)
 - [Exam PL-300: Microsoft Power BI Data Analyst](https://learn.microsoft.com/en-us/certifications/exams/pl-300)
 - Additional sources as explored during development.
+- 
 
 ## Version Control
 This project is tracked through GitHub for version control. Regular commits have been made to demonstrate iterative progress.
