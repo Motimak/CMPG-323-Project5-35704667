@@ -6,7 +6,7 @@
 This Power BI report has been developed for **NWU Tech Trends** to provide insights into time savings by project and client. The report allows stakeholders to monitor the time saved through automation efforts and assess the benefits realized across different projects and clients.
 
 ## Features
-The report consists of the following pages:
+The report consists of the following pages
 
 1. **High-Level Metrics**: Provides a summary of key metrics that impact decision-making at a business level. This includes overall savings and the number of projects.
    
